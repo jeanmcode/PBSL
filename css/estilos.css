@@ -2,7 +2,8 @@
 
 .buttons {
 
-   margin-left: 450%;
+   display: block;
+   margin-left: 400px;
 
 
 }

@@ -18,6 +18,10 @@
     <?php
     
      include "./inc/navbar.php";
+
+     /* incluimos un script para el menu de hamburguesa cuando se reduce*/
+    include "./inc/scriptNav.php";
+
     
     ?>
 

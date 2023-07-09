@@ -33,8 +33,14 @@
           <a class="button is-primary is-rounded">
             <strong>Administrar</strong>
           </a>
+
+          <a class="button is-link is-rounded">
+            <strong>Salir</strong>
+          </a>
         </div>
+        
       </div>
+      
     </div>
   </div>
 </nav>
